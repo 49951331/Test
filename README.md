@@ -1,7 +1,7 @@
 Test
 ====
 
-測試git
+測試 git
 ## git
 
 ### 設定你的 git
