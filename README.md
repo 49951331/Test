@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Test
 ====
 
@@ -171,3 +172,9 @@ git push -u origin master
 [git4]: http://365git.tumblr.com/post/472624933/the-four-buckets-how-git-considers-content
 [git5]: https://help.github.com/articles/creating-project-pages-manually
 [why git]: http://littleb.tc/slides/2012/everyone/git.html
+=======
+102tpcu
+=======
+
+論文
+>>>>>>> 5edc6ae9c1e8843712f12ee4aaaecefd9e8c638d
